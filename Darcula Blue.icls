@@ -1,0 +1,74 @@
+<scheme name="Darcula Blue" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-02-07T15:17:28</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.3.0.0</property>
+    <property name="modified">2020-02-07T15:17:34</property>
+    <property name="originalScheme">Darcula Blue</property>
+  </metaInfo>
+  <colors>
+    <option name="GUTTER_BACKGROUND" value="2e2e31" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="68a0e2" />
+      </value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="3d88bf" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="68a0e2" />
+      </value>
+    </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="3f9bd4" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="3d88bf" />
+        <option name="BACKGROUND" value="202020" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="b9ebff" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="202020" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="3d88bf" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="3d88bf" />
+        <option name="BACKGROUND" value="202020" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="3d88bf" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
