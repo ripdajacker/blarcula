@@ -1,15 +1,33 @@
 <scheme name="Darcula Blue" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-02-07T15:17:28</property>
+    <property name="created">2020-03-02T14:44:35</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.0.0</property>
-    <property name="modified">2020-02-07T15:17:34</property>
+    <property name="modified">2020-03-02T14:44:40</property>
     <property name="originalScheme">Darcula Blue</property>
   </metaInfo>
   <colors>
     <option name="GUTTER_BACKGROUND" value="2e2e31" />
   </colors>
   <attributes>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="3d88bf" />
+      </value>
+    </option>
+    <option name="CSS.IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="3d88bf" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CSS.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="CSS.TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="3d88bf" />
+      </value>
+    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="68a0e2" />
@@ -39,6 +57,7 @@
     </option>
     <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b9ebff" />
@@ -46,6 +65,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -70,5 +90,6 @@
         <option name="FOREGROUND" value="3d88bf" />
       </value>
     </option>
+    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
   </attributes>
 </scheme>
